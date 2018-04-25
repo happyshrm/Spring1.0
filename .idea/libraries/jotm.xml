@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jotm">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/jotm/jotm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

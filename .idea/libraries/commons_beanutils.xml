@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-beanutils">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/jakarta-commons/commons-beanutils.jar!/" />
+      <root url="jar://E:/spring-framework-1.0/lib/jakarta-commons/commons-collections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

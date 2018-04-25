@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xapool">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/jotm/xapool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

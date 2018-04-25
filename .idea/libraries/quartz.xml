@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quartz">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/quartz/quartz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

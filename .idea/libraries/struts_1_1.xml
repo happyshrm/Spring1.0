@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="struts-1.1">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/struts/struts-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

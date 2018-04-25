@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cglib-2.0">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/cglib/cglib-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

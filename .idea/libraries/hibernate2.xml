@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate2">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/hibernate/hibernate2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

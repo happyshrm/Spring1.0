@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xjavadoc-1.0">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/xdoclet/xjavadoc-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dom4j">
+    <CLASSES>
+      <root url="jar://E:/spring-framework-1.0/lib/dom4j/dom4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
